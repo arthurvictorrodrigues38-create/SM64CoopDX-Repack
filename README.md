@@ -37,7 +37,9 @@ First, you need an original Mario 64 cartridge; second, an SD card reader; third
 
 ## 🐧 Linux Support & Compatibility (Tested!)
 
-This repack has been fully tested and is **100% working** in native Linux environments and ARM64 emulation layer setups (like Debian/Andronix using BOX64 on Android devices!). 
+<p style="color:#0f172a;">
+  This repack has been fully tested and is <strong>100% working</strong> in native Linux environments and ARM64 emulation layer setups (like Debian/Andronix using BOX64 on Android devices!).
+</p>
 
 But if you find a bug, report it in the Issues section.
 
