@@ -35,9 +35,11 @@ You need to move the ROM to where the executable file is located and execute the
 
 First, you need an original Mario 64 cartridge; second, an SD card reader; third, transfer the game to your device's internal memory; and then simply click on the ROM
 
-⚠️ Linux Build — Experimental
+## 🐧 Linux Support & Compatibility (Tested!)
 
-This build has been prepared but has not yet been successfully tested in a native Linux environment. Compatibility and stability are not guaranteed. Please report any issues you encounter.
+This repack has been fully tested and is **100% working** in native Linux environments and ARM64 emulation layer setups (like Debian/Andronix using BOX64 on Android devices!). 
+
+But if you find a bug, report it in the Issues section.
 
 🎮 SM64CoopDX — Windows Mod Pack
 
